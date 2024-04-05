@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: bisque;
+}
+
+.parent{
+    background-color: rgb(224, 212, 2);
+    height: 100px;
+    width: 100px;
+
+    /* position: absolute;
+    top: 10px;
+    left: 100px; */
+}
+
